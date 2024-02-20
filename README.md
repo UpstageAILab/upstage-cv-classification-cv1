@@ -105,7 +105,7 @@ e.g.
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+- [Google Project](https://docs.google.com/presentation/d/1RwgKMpzbraxjYqTCn4eo3yh1iWQ6-Cah/edit?usp=sharing&ouid=107968498421720497028&rtpof=true&sd=true)
 
 ## etc
 
