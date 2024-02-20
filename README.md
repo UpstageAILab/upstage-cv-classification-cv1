@@ -1,11 +1,36 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3DbKuh4a)
-# Title (Please modify the title)
+# 분류 셰프: 문서 속 재료로 요리하는 재미!
 ## Team
-
-| ![신패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![가패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![서패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [신동혁](https://github.com/UpstageAILab)             |            [김도연](https://github.com/UpstageAILab)             |            [김다운](https://github.com/UpstageAILab)             |            [서상혁](https://github.com/UpstageAILab)             |            [가상민](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+<table>
+  <tr>
+    <td> <div align=center> 👑 </div> </td>
+    <td> <div align=center>  1 </div> </td>
+    <td> <div align=center>  2 </div> </td>
+    <td> <div align=center>  3 </div> </td>
+    <td> <div align=center>  4 </div> </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <b>신동혁</b> </div> </td>
+    <td> <div align=center> <b>김도연</b> </div> </td>
+    <td> <div align=center> <b>김다운</b> </div> </td>
+    <td> <div align=center> <b>서상혁</b> </div> </td>
+    <td> <div align=center> <b>가상민</b> </div> </td>
+  </tr>
+  <tr>
+    <td> <img alt="Github" src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/c4cb11ba-e02f-4776-97c8-9585ae4b9f1d" width="250" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/3d913931-5797-4689-aea2-3ef12bc47ef0" width="250" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/0f945311-9828-4e50-a60c-fc4db3fa3b9d" width="250" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/a4dbcdb5-1d28-4b91-8555-1168abffc1d0" width="250" height="300"/> </td>
+    <td> <img alt="Github" src ="https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/76687996/6c21c014-1e77-4ac1-89ac-72b7615c8bf5" width="250" height="300"/> </td>
+  </tr>
+  <tr>
+    <td> <div align=center> <a href="https://github.com/HyeokHam"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    <td> <div align=center> <a href="https://github.com/d-yeon"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    <td> <div align=center> <a href="https://github.com/Daw-ny"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    <td> <div align=center> <a href="https://github.com/devhyuk96"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    <td> <div align=center> <a href="https://github.com/3minka"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
+    </tr>
+</table>
 
 ## 0. Overview
 ### Environment
@@ -86,8 +111,10 @@ e.g.
 
 ### Meeting Log
 
-- _Insert your meeting log link like Notion or Google Docs_
+- 전체적인 내용은 [Notion](https://www.notion.so/1-c35e90521c3e445888e2218d9871acf5), [Notion2](https://www.notion.so/Document-Type-Classification-b01886bae17c4dd9b2d3244429f56fee?pvs=4)에서 확인하실 수 있습니다.
+- Jan 21 ~ Jan 26 : Offline Meeting
 
 ### Reference
 
 - _Insert related reference_
+
