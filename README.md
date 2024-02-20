@@ -111,8 +111,8 @@ e.g.
 
 ### Meeting Log
 
-- 전체적인 내용은 [Notion](https://www.notion.so/1-c35e90521c3e445888e2218d9871acf5), [Notion2](https://www.notion.so/Document-Type-Classification-b01886bae17c4dd9b2d3244429f56fee?pvs=4)에서 확인하실 수 있습니다.
-- Jan 21 ~ Jan 26 : Offline Meeting
+- 전체적인 내용은 [Notion](https://quickest-asterisk-75d.notion.site/1-e1916b7fb9b94e948381794c3b824036), [Notion2](https://www.notion.so/Document-Type-Classification-b01886bae17c4dd9b2d3244429f56fee?pvs=4)에서 확인하실 수 있습니다.
+- Feb 5 ~ Feb 20 : Online Meeting
 
 ### Reference
 
