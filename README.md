@@ -102,13 +102,19 @@ e.g.
 
 ## 4. Modeling
 
+![패스트캠퍼스  Document Type Classification pptx (12)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/6628b9de-b671-4517-9cbf-25b3684d4315)
+
 ### Model descrition
 
-- _Write model information and why your select this model_
+![패스트캠퍼스  Document Type Classification pptx (13)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/8c642223-94cd-4469-8b51-1e788050883a)
+
 
 ### Modeling Process
 
-- _Write model train and test process with capture_
+![패스트캠퍼스  Document Type Classification pptx (16)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/eb9f216d-e810-425b-a899-0fe49745b72b)
+![패스트캠퍼스  Document Type Classification pptx (14)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/0e7da75f-3473-462e-89e6-c189066db556)
+![패스트캠퍼스  Document Type Classification pptx (15)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/cad94c3f-d34b-4009-bb7e-e21af15a325f)
+
 
 ## 5. Result
 
