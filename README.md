@@ -119,7 +119,11 @@ Macro F1 score는 multi classification을 위한 평가 지표로 클래스 별�
 ![패스트캠퍼스  Document Type Classification pptx (8)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/c822d13d-cf25-4637-a90e-ef9b7634972b)
 ![패스트캠퍼스  Document Type Classification pptx (9)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/a847c280-b337-4742-ae96-3691756688cf)
 ![패스트캠퍼스  Document Type Classification pptx (10)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/678f5f1a-3646-4426-8338-27bfb2059e13)
+학습된 이미지의 low level과 high level의 영역을 찾아보며, 각 모델이 학습되어지는 곳을 확인한 결과입니다. 이는 문서를 모델이 학습할때, gray스케일으로 적용시에 coner를 잘 탐지하고 있지만,
+모델학습시에 영향이 가는 것이 있음을 보입니다. 
 ![패스트캠퍼스  Document Type Classification pptx (11)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/a83cbe6d-a107-442b-9b3d-75954dd9b83f)
+또한, 학습되어진 데이터들의 클래스가 3, 4, 7, 14에서 유난히 성능 저하가 발생한다는 것을 볼 수 있습니다. 클래승별 특징을 잡는 것뿐만이 아니라, 어떤 클래스(타겟)에 따라서도 모델 성능의
+영향을 준다는 것을 확인할 수 있습니다. 
 
 
 ## 4. Modeling
