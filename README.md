@@ -94,7 +94,7 @@ Macro F1 score는 multi classification을 위한 평가 지표로 클래스 별�
 
 ### Directory
 
-  
+![image](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/76687996/17569632-122c-4b30-93d1-3c08717d32e1)
 
 ## 3. Data descrption
 
