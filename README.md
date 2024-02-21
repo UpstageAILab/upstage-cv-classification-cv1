@@ -141,7 +141,7 @@ Macro F1 score는 multi classification을 위한 평가 지표로 클래스 별�
 
 ## 5. Result
 
-### Leader Board
+### Leader Board - 1st
 
 ![image](https://github.com/UpstageAILab/upstage-cv-classification-cv2/assets/76687996/a8859348-aba1-4336-84c0-cbe5040e2712)
 
