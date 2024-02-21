@@ -76,7 +76,8 @@ e.g.
 
 ### Dataset overview
 
-- _Explain using data_
+![패스트캠퍼스  Document Type Classification pptx (1)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/38055465-ecc0-46f2-91c4-875c38028357)
+
 
 ### EDA
 
