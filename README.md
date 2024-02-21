@@ -88,7 +88,9 @@ e.g.
 
 ### EDA
 
-- _Describe your EDA process and step-by-step conclusion_
+![패스트캠퍼스  Document Type Classification pptx (6)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/d9c24a45-2980-4200-8416-ef9e668d9ec5)
+![패스트캠퍼스  Document Type Classification pptx (7)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/476d5416-eadc-48dd-ac43-95a12b00a262)
+
 
 ### Data Processing
 
