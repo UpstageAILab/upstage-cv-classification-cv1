@@ -74,9 +74,16 @@ e.g.
 
 ## 3. Data descrption
 
+![패스트캠퍼스  Document Type Classification pptx](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/4b3e609f-3f85-4e78-9822-1893a74c7df0)
+
+
 ### Dataset overview
 
 ![패스트캠퍼스  Document Type Classification pptx (1)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/38055465-ecc0-46f2-91c4-875c38028357)
+![패스트캠퍼스  Document Type Classification pptx (2)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/e5ec813f-44b8-4369-87fa-4dff5e573914)
+![패스트캠퍼스  Document Type Classification pptx (3)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/6c99af33-8abf-4496-8a87-ff0a940e5e1c)
+![패스트캠퍼스  Document Type Classification pptx (4)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/ecb7494d-f846-4571-b706-cca340a41071)
+![패스트캠퍼스  Document Type Classification pptx (5)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/33e31e7c-5534-4af8-a003-a0aa5aeb6d81)
 
 
 ### EDA
