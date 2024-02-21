@@ -94,7 +94,11 @@ e.g.
 
 ### Data Processing
 
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
+![패스트캠퍼스  Document Type Classification pptx (8)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/c822d13d-cf25-4637-a90e-ef9b7634972b)
+![패스트캠퍼스  Document Type Classification pptx (9)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/a847c280-b337-4742-ae96-3691756688cf)
+![패스트캠퍼스  Document Type Classification pptx (10)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/678f5f1a-3646-4426-8338-27bfb2059e13)
+![패스트캠퍼스  Document Type Classification pptx (11)](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/147508048/a83cbe6d-a107-442b-9b3d-75954dd9b83f)
+
 
 ## 4. Modeling
 
